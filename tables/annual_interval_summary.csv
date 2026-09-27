@@ -1,0 +1,13 @@
+year,position_vs_excess_interval,n,percent
+2020,Reported above excess 95% interval,43,21.93877551020408
+2020,Reported below excess 95% interval,76,38.775510204081634
+2020,Reported within excess 95% interval,77,39.285714285714285
+2021,Reported above excess 95% interval,35,16.50943396226415
+2021,Reported below excess 95% interval,115,54.24528301886792
+2021,Reported within excess 95% interval,62,29.245283018867923
+2022,Reported above excess 95% interval,19,8.482142857142858
+2022,Reported below excess 95% interval,136,60.714285714285715
+2022,Reported within excess 95% interval,69,30.803571428571427
+2023,Reported above excess 95% interval,10,4.444444444444445
+2023,Reported below excess 95% interval,134,59.55555555555556
+2023,Reported within excess 95% interval,81,36

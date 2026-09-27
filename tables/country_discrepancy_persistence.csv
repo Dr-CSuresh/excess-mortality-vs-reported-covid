@@ -1,0 +1,226 @@
+entity,code,years_observed,years_reported_below_interval,years_reported_within_interval,years_reported_above_interval,persistent_below_interval
+Afghanistan,AFG,4,4,0,0,TRUE
+Albania,ALB,4,4,0,0,TRUE
+Algeria,DZA,4,4,0,0,TRUE
+American Samoa,ASM,2,0,2,0,FALSE
+Andorra,AND,4,0,2,2,FALSE
+Angola,AGO,4,2,2,0,FALSE
+Anguilla,AIA,3,0,3,0,FALSE
+Antigua and Barbuda,ATG,4,0,0,4,FALSE
+Argentina,ARG,4,3,0,1,TRUE
+Armenia,ARM,4,4,0,0,TRUE
+Aruba,ABW,4,4,0,0,TRUE
+Australia,AUS,4,2,0,2,FALSE
+Austria,AUT,4,3,0,1,TRUE
+Azerbaijan,AZE,4,4,0,0,TRUE
+Bahamas,BHS,4,4,0,0,TRUE
+Bahrain,BHR,4,4,0,0,TRUE
+Bangladesh,BGD,4,4,0,0,TRUE
+Barbados,BRB,4,0,1,3,FALSE
+Belarus,BLR,4,4,0,0,TRUE
+Belgium,BEL,4,0,1,3,FALSE
+Belize,BLZ,4,0,2,2,FALSE
+Benin,BEN,4,0,4,0,FALSE
+Bermuda,BMU,4,4,0,0,TRUE
+Bhutan,BTN,3,0,2,1,FALSE
+Bolivia,BOL,4,4,0,0,TRUE
+Bonaire Sint Eustatius and Saba,BES,4,0,4,0,FALSE
+Bosnia and Herzegovina,BIH,4,4,0,0,TRUE
+Botswana,BWA,4,3,1,0,TRUE
+Brazil,BRA,4,3,0,1,TRUE
+British Virgin Islands,VGB,4,0,4,0,FALSE
+Brunei,BRN,4,1,1,2,FALSE
+Bulgaria,BGR,4,4,0,0,TRUE
+Burkina Faso,BFA,4,0,4,0,FALSE
+Burundi,BDI,4,0,4,0,FALSE
+Cambodia,KHM,3,3,0,0,TRUE
+Cameroon,CMR,4,3,1,0,TRUE
+Canada,CAN,4,2,0,2,FALSE
+Cape Verde,CPV,4,4,0,0,TRUE
+Cayman Islands,CYM,4,0,4,0,FALSE
+Central African Republic,CAF,4,0,4,0,FALSE
+Chad,TCD,4,0,4,0,FALSE
+Chile,CHL,4,1,0,3,FALSE
+China,CHN,4,2,2,0,FALSE
+Colombia,COL,4,4,0,0,TRUE
+Comoros,COM,4,2,2,0,FALSE
+Congo,COG,4,0,4,0,FALSE
+Cook Islands,COK,2,0,2,0,FALSE
+Costa Rica,CRI,4,0,1,3,FALSE
+Cote d'Ivoire,CIV,4,0,4,0,FALSE
+Croatia,HRV,4,4,0,0,TRUE
+Cuba,CUB,4,4,0,0,TRUE
+Curacao,CUW,4,3,1,0,TRUE
+Cyprus,CYP,4,4,0,0,TRUE
+Czechia,CZE,4,4,0,0,TRUE
+Democratic Republic of Congo,COD,4,0,4,0,FALSE
+Denmark,DNK,4,0,0,4,FALSE
+Djibouti,DJI,4,3,1,0,TRUE
+Dominica,DMA,3,0,3,0,FALSE
+Dominican Republic,DOM,4,2,1,1,FALSE
+East Timor,TLS,3,3,0,0,TRUE
+Ecuador,ECU,4,4,0,0,TRUE
+Egypt,EGY,4,4,0,0,TRUE
+El Salvador,SLV,4,4,0,0,TRUE
+Equatorial Guinea,GNQ,4,2,2,0,FALSE
+Eritrea,ERI,4,0,4,0,FALSE
+Estonia,EST,4,4,0,0,TRUE
+Eswatini,SWZ,4,3,1,0,TRUE
+Ethiopia,ETH,4,3,1,0,TRUE
+Faroe Islands,FRO,3,2,0,1,FALSE
+Fiji,FJI,4,0,4,0,FALSE
+Finland,FIN,4,4,0,0,TRUE
+France,FRA,4,0,0,4,FALSE
+French Guiana,GUF,4,0,4,0,FALSE
+French Polynesia,PYF,4,0,2,2,FALSE
+Gabon,GAB,4,3,1,0,TRUE
+Gambia,GMB,4,0,4,0,FALSE
+Georgia,GEO,4,4,0,0,TRUE
+Germany,DEU,4,2,0,2,FALSE
+Ghana,GHA,4,1,3,0,FALSE
+Gibraltar,GIB,4,0,3,1,FALSE
+Greece,GRC,4,4,0,0,TRUE
+Greenland,GRL,3,0,0,3,FALSE
+Grenada,GRD,3,0,3,0,FALSE
+Guadeloupe,GLP,4,0,4,0,FALSE
+Guam,GUM,4,0,4,0,FALSE
+Guatemala,GTM,4,4,0,0,TRUE
+Guernsey,GGY,4,0,4,0,FALSE
+Guinea,GIN,4,0,4,0,FALSE
+Guinea-Bissau,GNB,4,0,4,0,FALSE
+Guyana,GUY,4,3,1,0,TRUE
+Haiti,HTI,4,3,1,0,TRUE
+Honduras,HND,4,4,0,0,TRUE
+Hungary,HUN,4,3,1,0,TRUE
+Iceland,ISL,4,2,0,2,FALSE
+India,IND,4,4,0,0,TRUE
+Indonesia,IDN,4,3,1,0,TRUE
+Iran,IRN,4,4,0,0,TRUE
+Iraq,IRQ,4,4,0,0,TRUE
+Ireland,IRL,4,1,0,3,FALSE
+Isle of Man,IMN,4,0,4,0,FALSE
+Israel,ISR,4,2,0,2,FALSE
+Italy,ITA,4,4,0,0,TRUE
+Jamaica,JAM,4,3,0,1,TRUE
+Japan,JPN,4,2,0,2,FALSE
+Jersey,JEY,4,0,4,0,FALSE
+Jordan,JOR,4,3,1,0,TRUE
+Kazakhstan,KAZ,4,4,0,0,TRUE
+Kenya,KEN,4,3,1,0,TRUE
+Kiribati,KIR,2,0,2,0,FALSE
+Kosovo,OWID_KOS,4,4,0,0,TRUE
+Kuwait,KWT,4,4,0,0,TRUE
+Kyrgyzstan,KGZ,3,3,0,0,TRUE
+Laos,LAO,3,3,0,0,TRUE
+Latvia,LVA,4,4,0,0,TRUE
+Lebanon,LBN,4,4,0,0,TRUE
+Lesotho,LSO,4,3,1,0,TRUE
+Liberia,LBR,4,0,4,0,FALSE
+Libya,LBY,4,4,0,0,TRUE
+Liechtenstein,LIE,4,1,1,2,FALSE
+Lithuania,LTU,4,4,0,0,TRUE
+Luxembourg,LUX,4,0,0,4,FALSE
+Madagascar,MDG,4,2,2,0,FALSE
+Malawi,MWI,4,2,2,0,FALSE
+Malaysia,MYS,4,2,0,2,FALSE
+Maldives,MDV,4,4,0,0,TRUE
+Mali,MLI,4,2,2,0,FALSE
+Malta,MLT,4,4,0,0,TRUE
+Marshall Islands,MHL,2,0,2,0,FALSE
+Martinique,MTQ,4,0,4,0,FALSE
+Mauritania,MRT,4,3,1,0,TRUE
+Mauritius,MUS,4,3,0,1,TRUE
+Mayotte,MYT,4,0,4,0,FALSE
+Mexico,MEX,4,4,0,0,TRUE
+Micronesia (country),FSM,2,0,2,0,FALSE
+Moldova,MDA,4,4,0,0,TRUE
+Monaco,MCO,4,4,0,0,TRUE
+Mongolia,MNG,4,0,1,3,FALSE
+Montenegro,MNE,4,4,0,0,TRUE
+Montserrat,MSR,4,0,4,0,FALSE
+Morocco,MAR,4,4,0,0,TRUE
+Mozambique,MOZ,4,3,1,0,TRUE
+Myanmar,MMR,4,3,1,0,TRUE
+Namibia,NAM,4,3,1,0,TRUE
+Nauru,NRU,2,0,2,0,FALSE
+Nepal,NPL,4,4,0,0,TRUE
+Netherlands,NLD,4,4,0,0,TRUE
+New Caledonia,NCL,3,0,3,0,FALSE
+New Zealand,NZL,4,0,0,4,FALSE
+Nicaragua,NIC,4,4,0,0,TRUE
+Niger,NER,4,0,4,0,FALSE
+Nigeria,NGA,4,1,3,0,FALSE
+North Macedonia,MKD,4,4,0,0,TRUE
+Northern Mariana Islands,MNP,4,0,4,0,FALSE
+Norway,NOR,4,3,0,1,TRUE
+Oman,OMN,4,0,0,4,FALSE
+Pakistan,PAK,4,4,0,0,TRUE
+Palau,PLW,2,0,2,0,FALSE
+Palestine,PSE,4,0,2,2,FALSE
+Panama,PAN,4,0,3,1,FALSE
+Papua New Guinea,PNG,4,0,4,0,FALSE
+Paraguay,PRY,4,3,0,1,TRUE
+Peru,PER,4,0,1,3,FALSE
+Philippines,PHL,4,3,0,1,TRUE
+Poland,POL,4,4,0,0,TRUE
+Portugal,PRT,4,4,0,0,TRUE
+Puerto Rico,PRI,4,0,4,0,FALSE
+Qatar,QAT,4,4,0,0,TRUE
+Reunion,REU,4,0,4,0,FALSE
+Romania,ROU,4,4,0,0,TRUE
+Russia,RUS,4,4,0,0,TRUE
+Rwanda,RWA,4,3,1,0,TRUE
+Saint Kitts and Nevis,KNA,3,3,0,0,TRUE
+Saint Lucia,LCA,4,0,4,0,FALSE
+Saint Martin (French part),MAF,4,0,4,0,FALSE
+Saint Pierre and Miquelon,SPM,2,0,2,0,FALSE
+Saint Vincent and the Grenadines,VCT,3,2,1,0,FALSE
+Samoa,WSM,2,0,2,0,FALSE
+San Marino,SMR,4,3,1,0,TRUE
+Sao Tome and Principe,STP,4,0,4,0,FALSE
+Saudi Arabia,SAU,4,4,0,0,TRUE
+Senegal,SEN,4,2,2,0,FALSE
+Serbia,SRB,4,4,0,0,TRUE
+Seychelles,SYC,3,0,0,3,FALSE
+Sierra Leone,SLE,4,0,4,0,FALSE
+Singapore,SGP,4,3,0,1,TRUE
+Sint Maarten (Dutch part),SXM,4,0,4,0,FALSE
+Slovakia,SVK,4,4,0,0,TRUE
+Slovenia,SVN,4,1,0,3,FALSE
+Solomon Islands,SLB,2,0,2,0,FALSE
+Somalia,SOM,4,2,2,0,FALSE
+South Africa,ZAF,4,4,0,0,TRUE
+South Korea,KOR,4,3,0,1,TRUE
+South Sudan,SSD,4,3,1,0,TRUE
+Spain,ESP,4,4,0,0,TRUE
+Sri Lanka,LKA,4,0,4,0,FALSE
+Sudan,SDN,4,4,0,0,TRUE
+Suriname,SUR,4,3,0,1,TRUE
+Sweden,SWE,4,0,0,4,FALSE
+Switzerland,CHE,4,4,0,0,TRUE
+Syria,SYR,4,1,3,0,FALSE
+Tajikistan,TJK,4,4,0,0,TRUE
+Tanzania,TZA,4,2,2,0,FALSE
+Thailand,THA,4,3,0,1,TRUE
+Togo,TGO,4,0,4,0,FALSE
+Tonga,TON,2,0,2,0,FALSE
+Trinidad and Tobago,TTO,4,0,4,0,FALSE
+Tunisia,TUN,4,0,3,1,FALSE
+Turkey,TUR,4,4,0,0,TRUE
+Turks and Caicos Islands,TCA,4,0,4,0,FALSE
+Tuvalu,TUV,1,0,1,0,FALSE
+Uganda,UGA,4,2,2,0,FALSE
+Ukraine,UKR,4,4,0,0,TRUE
+United Arab Emirates,ARE,4,4,0,0,TRUE
+United Kingdom,GBR,4,1,0,3,FALSE
+United States,USA,4,4,0,0,TRUE
+United States Virgin Islands,VIR,4,0,4,0,FALSE
+Uruguay,URY,4,1,1,2,FALSE
+Uzbekistan,UZB,3,3,0,0,TRUE
+Vanuatu,VUT,2,0,2,0,FALSE
+Venezuela,VEN,4,3,1,0,TRUE
+Vietnam,VNM,4,3,1,0,TRUE
+Wallis and Futuna,WLF,3,0,3,0,FALSE
+Yemen,YEM,4,4,0,0,TRUE
+Zambia,ZMB,4,3,1,0,TRUE
+Zimbabwe,ZWE,4,3,1,0,TRUE
