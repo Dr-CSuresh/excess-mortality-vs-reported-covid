@@ -1,0 +1,8 @@
+variable,missing,percent_missing
+Total confirmed deaths due to COVID-19,48348,51.790515569933476
+cumulative_estimated_daily_excess_deaths,45005,48.209484430066524
+cumulative_estimated_daily_excess_deaths_ci_95_top,45005,48.209484430066524
+cumulative_estimated_daily_excess_deaths_ci_95_bot,45005,48.209484430066524
+Code,3080,3.299304789347959
+Entity,0,0
+Day,0,0
