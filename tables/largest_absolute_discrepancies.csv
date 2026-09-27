@@ -1,0 +1,21 @@
+entity,code,common_cutoff_date,excess_deaths,confirmed_covid_deaths,absolute_difference,excess_reported_ratio,position_vs_excess_interval
+India,IND,2023-11-18,7580622.5,533295,7047327.5,14.214688868262407,Reported below excess 95% interval
+China,CHN,2023-11-18,1821669.2,121873,1699796.2,14.947274621942514,Reported below excess 95% interval
+Russia,RUS,2023-11-18,1498802.2,400334,1098468.2,3.743879360733787,Reported below excess 95% interval
+Pakistan,PAK,2023-11-18,826458.75,30656,795802.75,26.959118932672233,Reported below excess 95% interval
+Indonesia,IDN,2023-11-18,939342.06,161918,777424.06,5.801344260675157,Reported below excess 95% interval
+Nigeria,NGA,2023-11-18,647407.8,3155,644252.8,205.2005705229794,Reported below excess 95% interval
+Ethiopia,ETH,2023-11-18,572549.75,7574,564975.75,75.5941048323211,Reported below excess 95% interval
+Bangladesh,BGD,2023-11-18,590035.2,29477,560558.2,20.01679953862333,Reported below excess 95% interval
+Democratic Republic of Congo,COD,2023-11-18,378359,1468,376891,257.73773841961855,Reported within excess 95% interval
+Egypt,EGY,2023-11-18,360435.5,24830,335605.5,14.516129681836489,Reported below excess 95% interval
+Mexico,MEX,2023-11-18,652801.75,334915,317886.75,1.9491565023961304,Reported below excess 95% interval
+Vietnam,VNM,2023-11-18,301155.4,43206,257949.40000000002,6.97022172846364,Reported below excess 95% interval
+Myanmar,MMR,2023-11-18,274737.4,19494,255243.40000000002,14.093433877090389,Reported below excess 95% interval
+United States,USA,2023-11-18,1369039,1144877,224162,1.1957957055648774,Reported below excess 95% interval
+Philippines,PHL,2023-11-18,290208.1,66736,223472.09999999998,4.348598957084632,Reported below excess 95% interval
+Brazil,BRA,2023-11-18,920270.9,702116,218154.90000000002,1.3107106233158055,Reported below excess 95% interval
+South Africa,ZAF,2023-11-18,296222.88,102595,193627.88,2.8873032798869342,Reported below excess 95% interval
+Uganda,UGA,2023-11-18,176493.03,3632,172861.03,48.59389592511013,Reported below excess 95% interval
+Tanzania,TZA,2023-11-18,166299.14,846,165453.14,196.57108747044919,Reported below excess 95% interval
+Japan,JPN,2023-11-18,239480.25,74694,164786.25,3.2061510964736124,Reported below excess 95% interval

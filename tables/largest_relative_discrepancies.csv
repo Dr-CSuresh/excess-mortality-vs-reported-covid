@@ -1,0 +1,21 @@
+entity,code,common_cutoff_date,excess_deaths,confirmed_covid_deaths,excess_reported_ratio,absolute_difference,position_vs_excess_interval
+Chad,TCD,2023-11-18,65740.03,194,338.8661340206186,65546.03,Reported within excess 95% interval
+Democratic Republic of Congo,COD,2023-11-18,378359,1468,257.73773841961855,376891,Reported within excess 95% interval
+South Sudan,SSD,2023-11-18,30454.791,147,207.17544897959183,30307.791,Reported below excess 95% interval
+Nigeria,NGA,2023-11-18,647407.8,3155,205.2005705229794,644252.8,Reported below excess 95% interval
+Niger,NER,2023-11-18,63338.94,315,201.076,63023.94,Reported within excess 95% interval
+Tanzania,TZA,2023-11-18,166299.14,846,196.57108747044919,165453.14,Reported below excess 95% interval
+Tajikistan,TJK,2023-11-18,19810.904,125,158.48723199999998,19685.904,Reported below excess 95% interval
+Benin,BEN,2023-11-18,23132.209,163,141.9153926380368,22969.209,Reported within excess 95% interval
+Burkina Faso,BFA,2023-11-18,51712.62,396,130.58742424242425,51316.62,Reported within excess 95% interval
+Nicaragua,NIC,2023-11-18,23595.463,245,96.30801224489795,23350.463,Reported below excess 95% interval
+Central African Republic,CAF,2023-11-18,9363.356,113,82.86155752212389,9250.356,Reported within excess 95% interval
+Mali,MLI,2023-11-18,60856.15,743,81.90598923283984,60113.15,Reported below excess 95% interval
+Ethiopia,ETH,2023-11-18,572549.75,7574,75.5941048323211,564975.75,Reported below excess 95% interval
+Madagascar,MDG,2023-11-18,102654.79,1425,72.03844912280701,101229.79,Reported below excess 95% interval
+Togo,TGO,2023-11-18,20470.287,290,70.58719655172413,20180.287,Reported within excess 95% interval
+Cote d'Ivoire,CIV,2023-11-18,58742.867,835,70.35073892215568,57907.867,Reported within excess 95% interval
+Sierra Leone,SLE,2023-11-18,8603.074,125,68.82459200000001,8478.074,Reported within excess 95% interval
+Uzbekistan,UZB,2023-11-18,63427.38,1016,62.428523622047244,62411.38,Reported below excess 95% interval
+Mozambique,MOZ,2023-11-18,129877.37,2250,57.72327555555555,127627.37,Reported below excess 95% interval
+Ghana,GHA,2023-11-18,76315.34,1462,52.19927496580027,74853.34,Reported below excess 95% interval

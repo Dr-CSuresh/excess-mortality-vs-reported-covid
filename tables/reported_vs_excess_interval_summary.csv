@@ -1,0 +1,4 @@
+position_vs_excess_interval,n,percent
+Reported above excess 95% interval,10,4.444444444444445
+Reported below excess 95% interval,134,59.55555555555556
+Reported within excess 95% interval,81,36
