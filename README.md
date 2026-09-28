@@ -647,45 +647,6 @@ This visualises how the proportion of countries whose reported mortality fell be
 
 ---
 
-# Repository structure
-
-```text
-excess-mortality-vs-reported-covid/
-│
-├── data/
-│   ├── raw/
-│   │   └── 4- excess-deaths-cumulative-economist-single-entity.csv
-│   │
-│   └── processed/
-│       ├── covid_excess_country.csv
-│       ├── covid_excess_final_paired.csv
-│       ├── covid_excess_annual_paired.csv
-│       ├── covid_excess_comparison.csv
-│       └── covid_ratio_2020_2023_paired.csv
-│
-├── R/
-│   ├── 01_data_audit.R
-│   ├── 02_data_cleaning_and_alignment.R
-│   ├── 03_cross_country_discrepancy.R
-│   └── 04_temporal_discrepancy.R
-│
-├── plots/
-│   ├── 01_excess_vs_reported_covid_deaths.png
-│   ├── 02_excess_reported_ratio_distribution.png
-│   ├── 03_largest_relative_discrepancies.png
-│   ├── 04_regression_influence_diagnostics.png
-│   ├── 05_annual_excess_reported_ratio.png
-│   ├── 06_annual_interval_classification.png
-│   └── 07_2020_vs_2023_ratio_change.png
-│
-├── tables/
-│   └── analysis outputs
-│
-└── README.md
-```
-
----
-
 # Epidemiological considerations
 
 ## Excess mortality is not equivalent to COVID-19 mortality
@@ -781,29 +742,6 @@ It does not estimate causal effects of reporting systems or health-system charac
 The annual comparison uses cumulative mortality values observed near the end of each year.
 
 The apparent increase in the excess-to-reported ratio from 2020–2023 represents change in cumulative discrepancy, not independent year-specific mortality ratios.
-
----
-
-# Statistical methods demonstrated
-
-- data auditing
-- missingness assessment
-- asynchronous time-series alignment
-- country-specific common cutoffs
-- uncertainty-aware epidemiological comparison
-- absolute differences
-- mortality ratios
-- log transformation
-- Spearman rank correlation
-- Pearson correlation
-- log-log linear regression
-- robust regression
-- Cook's-distance influence diagnostics
-- influence sensitivity analysis
-- denominator-threshold sensitivity analysis
-- paired longitudinal comparison
-- Wilcoxon signed-rank testing
-- persistence analysis
 
 ---
 
